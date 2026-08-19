@@ -5,8 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadKhaidir&color=blue)
 ![Followers](https://img.shields.io/github/followers/MuhammadKhaidir?label=followers&style=flat&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](GANTI_LINK_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](GANTI_LINK_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad-khaidir-8bba14324/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/m.khaiidir?igsi=MTYxN3h4aTRiYWQ5OQ==))
 
 </div>
 
