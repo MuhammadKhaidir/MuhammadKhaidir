@@ -3,7 +3,7 @@
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+a+2D+RPG+in+Java+%F0%9F%8E%AE;Crafting+a+Three.js+showcase+for+it+%F0%9F%8C%90;Building+a+company+profile+site+in+Node.js" alt="Typing SVG" />
 </a>
-
+ 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadKhaidir&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
