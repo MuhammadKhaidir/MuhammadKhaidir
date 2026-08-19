@@ -1,27 +1,33 @@
-# Read-ME
 <div align="center">
 
-# Hi, I'm Muhammad Khaidir
+###  Hellooo there!! I'm Muhammad Khaidir
 
-hanya seorang mahasigma biasa, ni game gw, cobain kl dah rilis 😹
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadKhaidir&color=blue)
+![Followers](https://img.shields.io/github/followers/MuhammadKhaidir?label=followers&style=flat&color=blue)
 
-<img width="400" height="226" alt="2DGame" src="https://github.com/user-attachments/assets/40ee1a7e-4d73-4f9d-8c40-9592d505992e" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](GANTI_LINK_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](GANTI_LINK_INSTAGRAM)
 
 </div>
 
-### 🚀 Currently Working On
-- 2D Game (Pure Java, tanpa engine)
-- Company profile website (three.js/Node.js/Express)
-- Website for my 2D Game (three.js)
+- 🎮 Currently working on:
+- 2D Game (Java)
+- Website for my 2D Game(Three.js)
+- Company profile site (Node.js)
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat&logo=webgl&logoColor=white)
+<div align="center">
+<img width="400" height="226" alt="2DGame" src="https://github.com/user-attachments/assets/40ee1a7e-4d73-4f9d-8c40-9592d505992e" />
+</div>
 
-### GitHub Stats
-SOON!
+###  Techstacks
+
+![My Skills](https://skillicons.dev/icons?i=java,php,laravel)
+![My Skills2](https://skillicons.dev/icons?i=nodejs,js,react,threejs,html,css,mysql,git)
+
+###  Design
+![My Skills3](https://skillicons.dev/icons?i=figma,aseprite)
+
+
+### 📊 GitHub Stats
+
+NONE
