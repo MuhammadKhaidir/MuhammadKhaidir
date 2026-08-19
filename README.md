@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Khaidir&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Game%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+a+2D+RPG+in+Java+%F0%9F%8E%AE;Crafting+a+Three.js+showcase+for+it+%F0%9F%8C%90;Building+a+company+profile+site+in+Node.js" alt="Typing SVG" />
 </a>
@@ -22,13 +20,13 @@
 
 <br/>
 
-## 🪄 About Me
+## 😹 About Me 😹
 
-- 💻 Developer, currently splitting time between web projects and a personal game
-- 🎮 Long-time **Java** game dev — building a 2D RPG from the ground up
-- 🌐 Also working in **Laravel** and **Node.js** for web-based projects
-- 🎨 Into pixel art and building small interactive/visual experiences
-- 🌱 Currently exploring **Three.js** to bring that 2D game into a web showcase
+-  Developer, currently splitting time between web projects and a personal game
+-  Long-time **Java** game dev — building a 2D RPG from the ground up
+-  Also working in **Laravel** and **Node.js** for web-based projects
+-  Into pixel art and building small interactive/visual experiences
+-  Currently exploring **Three.js** to bring that 2D game into a web showcase
 
 <br/>
 
@@ -39,7 +37,7 @@
 | Project | Stack | Status |
 |---|:---:|:---:|
 | 2D RPG Game | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 🟡 In Progress |
-| Game Showcase Site | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | 🟢 Planning |
+| Game Showcase Site | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | 🟡 Planning |
 | Company Profile Site | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | 🟢 DONE |
 
 </div>
@@ -84,10 +82,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadKhaidir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=MuhammadKhaidir&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKhaidir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="45%" />
 
 </div>
 
