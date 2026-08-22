@@ -64,7 +64,7 @@
 
 **Frameworks & Web**
 
-![](https://skillicons.dev/icons?i=laravel,nodejs,react,threejs,html,css)
+![](https://skillicons.dev/icons?i=laravel,nodejs,react,threejs,html,css,typescript)
 
 **Database**
 
