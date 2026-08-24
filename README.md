@@ -23,9 +23,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="pacman-divider.svg" width="100%" alt="pacman divider" />
-</div>
 
 <br/>
 
