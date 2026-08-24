@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="pixel-banner.svg" width="100%" alt="pixel synthwave banner" />
 
 <br/>
 
