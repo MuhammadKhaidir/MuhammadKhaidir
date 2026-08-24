@@ -5,7 +5,7 @@
 </a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadKhaidir/MuhammadKhaidir/main/assets/portrait-scan.svg" width="472" alt="terminal scan portrait" />
+  <img src="https://raw.githubusercontent.com/MuhammadKhaidir/MuhammadKhaidir/main/portrait-scan.svg" width="472" alt="terminal scan portrait" />
 </div>
  
 <br/>
