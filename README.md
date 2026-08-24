@@ -26,7 +26,7 @@
 
 ## 😹 About Me 😹
 
--  Developer, currently splitting time between web projects and a personal game
+-  Student at Sriwjaya University, currently splitting time between web projects and a personal game
 -  Long-time **Java** game dev — building a 2D RPG from the ground up
 -  Also working in **Laravel** and **Node.js** for web-based projects
 -  Into pixel art and building small interactive/visual experiences
