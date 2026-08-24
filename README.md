@@ -3,6 +3,10 @@
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+a+2D+RPG+in+Java+%F0%9F%8E%AE;Crafting+a+Three.js+showcase+for+it+%F0%9F%8C%90;Building+a+company+profile+site+in+Node.js" alt="Typing SVG" />
 </a>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadKhaidir/MuhammadKhaidir/main/assets/portrait-scan.svg" width="472" alt="terminal scan portrait" />
+</div>
  
 <br/>
 
