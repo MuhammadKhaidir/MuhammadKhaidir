@@ -65,19 +65,19 @@
 
 <div align="center">
 
-** Languages**
+* Languages*
 
 ![](https://skillicons.dev/icons?i=java,php,js)
 
-** Frameworks & Web**
+* Frameworks & Web*
 
 ![](https://skillicons.dev/icons?i=laravel,nodejs,react,threejs,html,css,typescript)
 
-** Database**
+* Database*
 
 ![](https://skillicons.dev/icons?i=mysql)
 
-** Tools & Design**
+* Tools & Design*
 
 ![](https://skillicons.dev/icons?i=git,github,vscode,figma,eclipse)
 
