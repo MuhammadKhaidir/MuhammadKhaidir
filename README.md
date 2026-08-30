@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/MuhammadKhaidir/MuhammadKhaidir/main/portrait-scan.svg" align="right" width="260" alt="terminal scan portrait" />
 
 -  Student at **Sriwijaya University** — splitting time between web projects and a personal game
--  Long-time **Java** game dev — building a 2D RPG from the ground up
+-  Long-time **Java** game dev — building a 2D RPG from the ground up (without game engine)
 -  Also building with **Laravel** and **Node.js** for web projects
 -  Into pixel art and small interactive/visual experiences
 -  Currently exploring **Three.js** to bring that 2D game into a web showcase
